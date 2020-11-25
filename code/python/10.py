@@ -1,17 +1,32 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-        #备忘录记录已经搜索过的地方
-        memo = dict()
-        def dp(i,j):
-            #已经搜索过的结果，直接返回
-            if (i,j) in memo:return memo[(i,j)]
-            if j>=len(p):
-                return i>=len(s)
-            first_match = i<len(s) and p[j] in {s[i],'.'}
-            if j<=len(p)-2 and p[j+1]=='*':
-                res = dp(i,j+2) or (first_match and dp(i+1,j))
-            else:
-                res = first_match and dp(i+1,j+1)
-            memo[(i,j)] = res
-            return res
-        return dp(0,0)
+        if not p: return not s
+        if not s and len(p) == 1: return False
+
+        nrow = len(s) + 1
+        ncol = len(p) + 1
+
+        dp = [[False for c in range(ncol)] for r in range(nrow)]
+
+        dp[0][0] = True
+        dp[0][1] = False
+        for c in range(2, ncol):
+            j = c - 1
+            # 这里从dp[0][0]开始的话，是将*当作0个来用的
+            if p[j] == '*': dp[0][c] = dp[0][c - 2]
+
+        for r in range(1, nrow):
+            i = r - 1
+            for c in range(1, ncol):
+                j = c - 1
+                if s[i] == p[j] or p[j] == '.':
+                    dp[r][c] = dp[r - 1][c - 1]
+                elif p[j] == '*':
+                    if p[j - 1] == s[i] or p[j - 1] == '.':
+                        dp[r][c] = dp[r - 1][c] or dp[r][c - 2]
+                    else:
+                        dp[r][c] = dp[r][c - 2]
+                else:
+                    dp[r][c] = False
+
+        return dp[nrow - 1][ncol - 1]
