@@ -1,2 +1,7 @@
-# leetcode_by_py
-fucking leetcode with python
+# leetcode题解以及解析
+
+    | 水果        | 价格    |  数量  |
+    | --------   | -----:   | :----: |
+    | 香蕉        | $1      |   5    |
+    | 苹果        | $1      |   6    |
+    | 草莓        | $1      |   7    |
