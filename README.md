@@ -1,4 +1,4 @@
-# leetcode题解以及解析
+# fucking leetcode
 
 | 题号 | 题目 | 解析    |  python  |  java  | 
 | :----: | :-----: | :----: | :----: | :----: |
