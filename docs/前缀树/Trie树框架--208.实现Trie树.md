@@ -1,4 +1,15 @@
 >
+> 如图所示，前缀树（字典树）是将单词（或其他元素)按照前缀的形式进行存储；
+>
+> 图中，圆的节点表示分支，方框表示叶子节点（即单词）；该树中存放了三个单词，[cat,cats,dog]；
+>
+> 这样的形式下，对于某个单词的查询，只要从上到下遍历这颗树就行，同时也能检测单词的前缀/后缀等； 其查询复杂度只和输入的单词长度有关；
+>
+>
+![trie_intru](../../imgs/trie_intru.png "trie")
+>
+> 对于字典树的存储，通常采用字典，字典可以层层包裹，正好适合这种n叉树的结构；
+>
 >python
 >
     class Trie:
@@ -14,10 +25,13 @@
             """
             tree = self.lookup
             for a in word:
+                # 如果该字符不存在，建立新的节点
                 if a not in tree:
                     tree[a] = {}
+                # 进入该字符对应的节点
                 tree = tree[a]
-            tree['#'] = '#'
+            # 加入叶子节点标记，叶子节点的值可以按需设计
+            tree['#'] = word
     
     
         def search(self, word: str) -> bool:
@@ -26,9 +40,11 @@
             """
             tree = self.lookup
             for a in word:
+                # 如果某个单词的某个字符在查询过程中断了，说明该单词不在该树中
                 if a not in tree:
                     return False
                 tree = tree[a]
+            # 如果该单词的最后一个字符对应的节点没有叶子节点，说明该单词不在该树中
             if '#' in tree:
                 return True
             return False
