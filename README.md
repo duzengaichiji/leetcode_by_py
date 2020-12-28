@@ -7,9 +7,11 @@
 |18| 四数之和|[解析](docs/三数之和/18.四数之和.md)| [python](code/python/18.py)|[java](code/java/18.java)|
 |23| 合并K个排序链表|[解析](docs/最大最小堆/23.合并K个排序链表.md)| ||
 |42| 接雨水|[解析](docs/单调栈/42.接雨水.md)|[python](code/python/42.py)||
+|72| 编辑距离|[解析](docs/编辑距离/72.编辑距离.md)|[python](code/python/72.py)|[java](code/java/72.java)|
 |84| 柱状图的最大矩形|[解析](docs/单调栈/84.柱状图中的最大矩形.md)|[python](code/python/84.py)|[java](code/java/84.java)|
 |85| 最大矩形|[解析](docs/单调栈/85.最大矩形.md)|[python](code/python/85.py)|[java](code/java/85.java)|
 |94| 二叉树的中序遍历|[解析](docs/二叉树的遍历/94.二叉树的中序遍历.md)| ||
+|97| 交错字符串|[解析](docs/编辑距离/97.交错字符串.md)|[python](code/python/97.py) ||
 |130| 被围绕的区域|[解析](docs/广度优先搜索/130.被围绕的区域.md)| ||
 |144| 二叉树的前序遍历|[解析](docs/二叉树的遍历/144.二叉树的前序遍历.md)| ||
 |145| 二叉树的后序遍历|[解析](docs/二叉树的遍历/145.二叉树的后序遍历.md)| ||
@@ -34,11 +36,15 @@
 |547| 朋友圈|[解析](docs/并查集/547.朋友圈.md)|[python](code/python/547.py) |[java](code/java/547.java)|
 |592| 分数的加减运算|[解析](docs/其他/592.分数的加减运算.md)| ||
 |684| 冗余连接|[解析](docs/并查集/684.冗余连接.md)|[python](code/python/684.py) |[java](code/java/684.java)|
+|712| 两个字符串的最小ASCII删除和|[解析](docs/编辑距离/712.两个字符串的最小ASCII删除和.md)|[python](code/python/712.py) |[java](code/java/712.java)|
 |720| 词典中最长的单词|[解析](docs/前缀树/720.词典中最长的单词.md)|[python](code/python/720.py) ||
 |740| 删除与获得点数|[解析](docs/打家劫舍/740.删除与获得点数.md)|[python](code/python/740.py) ||
 |765| 情侣牵手|[解析](docs/并查集/765.情侣牵手.md)|[python](code/python/765.py) |[java](code/java/765.java)|
 |907| 子数组的最小值之和|[解析](docs/单调栈/907.子数组的最小值之和.md)|[python](code/python/907.py) |[java](code/java/907.java)|
 |1043| 分隔数组以得到最大和|[解析](docs/其他/1043.分隔数组以得到最大和.md)| ||
+|1143| 分隔数组以得到最大和|[解析](docs/编辑距离/1143.最长公共子序列.md)|[python](code/python/1143.py) |[java](code/java/1143.java)|
 |1420| 生成数组|[解析](docs/其他/1420.生成数组TODO.md)| ||
-|1638| 统计只差一个字符的子串数目|[解析](docs/前缀树/1638.统计只差一个字符的子串数目.md)| ||
+|1638| 统计只差一个字符的子串数目|[解析](docs/其他/1638.统计只差一个字符的子串数目.md)| ||
+|1643| 第k条最小指令|[解析](docs/组合计数问题/1643.第k条最小指令.md)| ||
+|剑指offer19| 正则表达式匹配|[解析](docs/编辑距离/10-剑指offer19.正则表达式匹配.md)|[python](code/python/10.py) |[java](code/java/10.java)|
 |剑指offer51| 逆序对|[解析](docs/归并排序/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
