@@ -5,7 +5,7 @@
 |15| 三数之和|[解析](docs/三数之和/15.三数之和.md)| [python](code/python/15.py)|[java](code/java/15.java)|
 |16| 最接近的三数之和|[解析](docs/三数之和/16.最接近的三数之和.md)| [python](code/python/16.py)|[java](code/java/16.java)|
 |18| 四数之和|[解析](docs/三数之和/18.四数之和.md)| [python](code/python/18.py)|[java](code/java/18.java)|
-|23| 合并K个排序链表|[解析](docs/最大最小堆/23.合并K个排序链表.md)| ||
+|23| 合并K个排序链表|[解析](docs/最大最小堆/23.合并K个排序链表.md)|[python](code/python/23.py) |[java](code/java/23.java)|
 |42| 接雨水|[解析](docs/单调栈/42.接雨水.md)|[python](code/python/42.py)||
 |72| 编辑距离|[解析](docs/编辑距离/72.编辑距离.md)|[python](code/python/72.py)|[java](code/java/72.java)|
 |84| 柱状图的最大矩形|[解析](docs/单调栈/84.柱状图中的最大矩形.md)|[python](code/python/84.py)|[java](code/java/84.java)|
