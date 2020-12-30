@@ -1,5 +1,18 @@
-# fucking leetcode
+# fucking leetcode by PY and JAVA
 
+# fucking 剑指offer
+| 题号 | 题目 | 解析    |  python  |  java  | 
+| :----: | :-----: | :----: | :----: | :----: |
+|剑指offer03| 数组中重复的数字|[解析](docs/剑指offer全家桶/剑指offer03.数组中重复的数字.md)|[python](code/python/剑指offer03.py) |[java](code/java/剑指offer03.java)|
+|剑指offer04| 二维数组中的查找|[解析](docs/剑指offer全家桶/剑指offer04.二维数组中的查找.md)|[python](code/python/剑指offer05.py) |[java](code/java/剑指offer05.java)|
+|剑指offer05| 替换空格|[解析](docs/剑指offer全家桶/剑指offer05.替换空格.md)|[python](code/python/剑指offer06.py) |[java](code/java/剑指offer06.java)|
+|剑指offer06| 从头到尾打印链表|[解析](docs/剑指offer全家桶/剑指offer06.从头到尾打印链表.md)|[python](code/python/剑指offer06.py) |[java](code/java/剑指offer06.java)|
+|剑指offer19| 正则表达式匹配|[解析](docs/剑指offer全家桶/剑指offer19.正则表达式匹配.md)|[python](code/python/10.py) |[java](code/java/10.java)|
+|剑指offer51| 逆序对|[解析](docs/剑指offer全家桶/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
+
+# fucking Top100
+
+# fucking 其他题目
 | 题号 | 题目 | 解析    |  python  |  java  | 
 | :----: | :-----: | :----: | :----: | :----: |
 |15| 三数之和|[解析](docs/三数之和/15.三数之和.md)| [python](code/python/15.py)|[java](code/java/15.java)|
@@ -46,5 +59,5 @@
 |1420| 生成数组|[解析](docs/其他/1420.生成数组TODO.md)| ||
 |1638| 统计只差一个字符的子串数目|[解析](docs/其他/1638.统计只差一个字符的子串数目.md)| ||
 |1643| 第k条最小指令|[解析](docs/组合计数问题/1643.第k条最小指令.md)| ||
-|剑指offer19| 正则表达式匹配|[解析](docs/编辑距离/10-剑指offer19.正则表达式匹配.md)|[python](code/python/10.py) |[java](code/java/10.java)|
-|剑指offer51| 逆序对|[解析](docs/归并排序/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
+
+# 按照主题 fuck 
