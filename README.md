@@ -9,6 +9,8 @@
 |剑指offer06| 从头到尾打印链表|[解析](docs/剑指offer全家桶/剑指offer06.从头到尾打印链表.md)|[python](code/python/剑指offer06.py) |[java](code/java/剑指offer06.java)|
 |剑指offer19| 正则表达式匹配|[解析](docs/剑指offer全家桶/剑指offer19.正则表达式匹配.md)|[python](code/python/10.py) |[java](code/java/10.java)|
 |剑指offer51| 逆序对|[解析](docs/剑指offer全家桶/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
+|剑指offer60| n个骰子的点数|[解析](docs/剑指offer全家桶/剑指offer60.n个骰子的点数.md)|[python](code/python/剑指offer60.py) |[java](code/java/剑指offer60.java)|
+|剑指offer68-1| 二叉树的最近公共祖先|[解析](docs/剑指offer全家桶/剑指offer68-1.二叉树的最近公共祖先.md)|[python](code/python/剑指offer68-1.py) |[java](code/java/剑指offer68-1.java)|
 
 # fucking Top100
 
