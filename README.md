@@ -5,8 +5,12 @@
 | :----: | :-----: | :----: | :----: | :----: |
 |剑指offer03| 数组中重复的数字|[解析](docs/剑指offer全家桶/剑指offer03.数组中重复的数字.md)|[python](code/python/剑指offer03.py) |[java](code/java/剑指offer03.java)|
 |剑指offer04| 二维数组中的查找|[解析](docs/剑指offer全家桶/剑指offer04.二维数组中的查找.md)|[python](code/python/剑指offer05.py) |[java](code/java/剑指offer05.java)|
-|剑指offer05| 替换空格|[解析](docs/剑指offer全家桶/剑指offer05.替换空格.md)|[python](code/python/剑指offer06.py) |[java](code/java/剑指offer06.java)|
+|剑指offer05| 替换空格|[解析](docs/剑指offer全家桶/剑指offer05.替换空格.md)|[python](code/python/剑指offer05.py) |[java](code/java/剑指offer05.java)|
 |剑指offer06| 从头到尾打印链表|[解析](docs/剑指offer全家桶/剑指offer06.从头到尾打印链表.md)|[python](code/python/剑指offer06.py) |[java](code/java/剑指offer06.java)|
+|剑指offer07| 重建二叉树|[解析](docs/剑指offer全家桶/剑指offer07.重建二叉树.md)|[python](code/python/剑指offer07.py) |[java](code/java/剑指offer07.java)|
+|剑指offer09| 用两个栈实现队列|[解析](docs/剑指offer全家桶/剑指offer09.用两个栈实现队列.md)|[python](code/python/剑指offer09.py) |[java](code/java/剑指offer09.java)|
+|剑指offer10-1| 斐波那契数列|[解析](docs/剑指offer全家桶/剑指offer10-1斐波那契数列.md)|[python](code/python/剑指offer10-1.py) |[java](code/java/剑指offer10-1.java)|
+|剑指offer10-2| 青蛙跳台阶|[解析](docs/剑指offer全家桶/剑指offer10-2青蛙跳台阶.md)|[python](code/python/剑指offer10-2.py) |[java](code/java/剑指offer10-2.java)|
 |剑指offer19| 正则表达式匹配|[解析](docs/剑指offer全家桶/剑指offer19.正则表达式匹配.md)|[python](code/python/10.py) |[java](code/java/10.java)|
 |剑指offer51| 逆序对|[解析](docs/剑指offer全家桶/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
 |剑指offer60| n个骰子的点数|[解析](docs/剑指offer全家桶/剑指offer60.n个骰子的点数.md)|[python](code/python/剑指offer60.py) |[java](code/java/剑指offer60.java)|
