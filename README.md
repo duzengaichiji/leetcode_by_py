@@ -50,7 +50,8 @@
 |307| 区域和检索-数组可修改|[解析](docs/线段树/307.区域和检索-数组可修改.md)|[python](code/python/307.py) |[java](code/java/307.java)|
 |327| 区间和的个数|[解析](docs/归并排序/327.区间和的个数.md)|[python](code/python/327.py) ||
 |337| 打家劫舍Ⅲ|[解析](docs/打家劫舍/337.打家劫舍Ⅲ.md)|[python](code/python/337.py) |[java](code/java/337.java)|
-|378| 有序矩阵中第k小的元素|[解析](docs/最大最小堆/378.有序矩阵中第k小的元素.md)|[python](code/python/402.py) ||
+|378| 有序矩阵中第k小的元素|[解析](docs/最大最小堆/378.有序矩阵中第k小的元素.md)| ||
+|399| 除法求值|[解析](docs/并查集/399.除法求值.md)|[python](code/python/399.py)|[java](code/java/399.java)|
 |402| 移掉k位数字|[解析](docs/单调栈/402.移掉K位数字.md)|[python](code/python/402.py) ||
 |466| 统计重复个数|[解析](docs/其他/466.统计重复个数.md)| ||
 |493| 翻转对|[解析](docs/归并排序/493.翻转对.md)|[python](code/python/493.py) ||
