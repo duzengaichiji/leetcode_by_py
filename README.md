@@ -14,6 +14,9 @@
 |剑指offer11| 旋转数组的最小数字|[解析](docs/剑指offer全家桶/剑指offer11.旋转数组的最小数字.md)|[python](code/python/剑指offer11.py) |[java](code/java/剑指offer11.java)|
 |剑指offer12| 矩阵钟的路径|[解析](docs/剑指offer全家桶/剑指offer12矩阵钟的路径.md)|[python](code/python/剑指offer12.py) |[java](code/java/剑指offer12.java)|
 |剑指offer13| 机器人的运动范围|[解析](docs/剑指offer全家桶/剑指offer13.机器人的运动范围.md)|[python](code/python/剑指offer13.py) |[java](code/java/剑指offer13.java)|
+|剑指offer14-1| 剪绳子|[解析](docs/剑指offer全家桶/剑指offer14-1.剪绳子.md)|[python](code/python/剑指offer14-1.py) |[java](code/java/剑指offer14-1.java)|
+|剑指offer14-2| 剪绳子Ⅱ|[解析](docs/剑指offer全家桶/剑指offer14-2.剪绳子Ⅱ.md)|[python](code/python/剑指offer14-2.py) |[java](code/java/剑指offer14-2.java)|
+|剑指offer15| 二进制中1的个数|[解析](docs/剑指offer全家桶/剑指offer15.二进制中1的个数.md)|[python](code/python/剑指offer15.py) |[java](code/java/剑指offer15.java)|
 |剑指offer19| 正则表达式匹配|[解析](docs/剑指offer全家桶/剑指offer19.正则表达式匹配.md)|[python](code/python/10.py) |[java](code/java/10.java)|
 |剑指offer51| 逆序对|[解析](docs/剑指offer全家桶/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
 |剑指offer60| n个骰子的点数|[解析](docs/剑指offer全家桶/剑指offer60.n个骰子的点数.md)|[python](code/python/剑指offer60.py) |[java](code/java/剑指offer60.java)|
