@@ -23,6 +23,8 @@
 |剑指offer68-1| 二叉树的最近公共祖先|[解析](docs/剑指offer全家桶/剑指offer68-1.二叉树的最近公共祖先.md)|[python](code/python/剑指offer68-1.py) |[java](code/java/剑指offer68-1.java)|
 
 # fucking Top100
+| 题号 | 题目 | 解析    |  python  |  java  | 
+| :----: | :-----: | :----: | :----: | :----: |
 
 # fucking 其他题目
 | 题号 | 题目 | 解析    |  python  |  java  | 
@@ -57,6 +59,7 @@
 |399| 除法求值|[解析](docs/并查集/399.除法求值.md)|[python](code/python/399.py)|[java](code/java/399.java)|
 |402| 移掉k位数字|[解析](docs/单调栈/402.移掉K位数字.md)|[python](code/python/402.py) ||
 |466| 统计重复个数|[解析](docs/其他/466.统计重复个数.md)| ||
+|470| 用rand7实现rand10|[解析](docs/其他/470.用rand7实现rand10.md)|[python](code/python/470.py) |[java](code/java/470.java)|
 |493| 翻转对|[解析](docs/归并排序/493.翻转对.md)|[python](code/python/493.py) ||
 |472| 连接词|[解析](docs/前缀树/472.连接词.md)|[python](code/python/472.py) ||
 |547| 朋友圈|[解析](docs/并查集/547.朋友圈.md)|[python](code/python/547.py) |[java](code/java/547.java)|
@@ -66,6 +69,7 @@
 |720| 词典中最长的单词|[解析](docs/前缀树/720.词典中最长的单词.md)|[python](code/python/720.py) ||
 |740| 删除与获得点数|[解析](docs/打家劫舍/740.删除与获得点数.md)|[python](code/python/740.py) ||
 |765| 情侣牵手|[解析](docs/并查集/765.情侣牵手.md)|[python](code/python/765.py) |[java](code/java/765.java)|
+|834| 树中距离之和|[解析](docs/其他/834.树中距离之和.md)|[python](code/python/834.py) |[java](code/java/834.java)|
 |907| 子数组的最小值之和|[解析](docs/单调栈/907.子数组的最小值之和.md)|[python](code/python/907.py) |[java](code/java/907.java)|
 |1043| 分隔数组以得到最大和|[解析](docs/其他/1043.分隔数组以得到最大和.md)| ||
 |1143| 分隔数组以得到最大和|[解析](docs/编辑距离/1143.最长公共子序列.md)|[python](code/python/1143.py) |[java](code/java/1143.java)|
@@ -73,4 +77,6 @@
 |1638| 统计只差一个字符的子串数目|[解析](docs/其他/1638.统计只差一个字符的子串数目.md)| ||
 |1643| 第k条最小指令|[解析](docs/组合计数问题/1643.第k条最小指令.md)| ||
 
-# 按照主题 fuck 
+# fucking topic
+| 题号 | 题目 | 解析    |  python  |  java  | 
+| :----: | :-----: | :----: | :----: | :----: |
