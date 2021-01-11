@@ -4,7 +4,7 @@
 | 题号 | 题目 | 解析    |  python  |  java  | 
 | :----: | :-----: | :----: | :----: | :----: |
 |剑指offer03| 数组中重复的数字|[解析](docs/剑指offer全家桶/剑指offer03.数组中重复的数字.md)|[python](code/python/剑指offer03.py) |[java](code/java/剑指offer03.java)|
-|剑指offer04| 二维数组中的查找|[解析](docs/剑指offer全家桶/剑指offer04.二维数组中的查找.md)|[python](code/python/剑指offer05.py) |[java](code/java/剑指offer05.java)|
+|剑指offer04| 二维数组中的查找|[解析](docs/剑指offer全家桶/剑指offer04.二维数组中的查找.md)|[python](code/python/剑指offer04.py) |[java](code/java/剑指offer04.java)|
 |剑指offer05| 替换空格|[解析](docs/剑指offer全家桶/剑指offer05.替换空格.md)|[python](code/python/剑指offer05.py) |[java](code/java/剑指offer05.java)|
 |剑指offer06| 从头到尾打印链表|[解析](docs/剑指offer全家桶/剑指offer06.从头到尾打印链表.md)|[python](code/python/剑指offer06.py) |[java](code/java/剑指offer06.java)|
 |剑指offer07| 重建二叉树|[解析](docs/剑指offer全家桶/剑指offer07.重建二叉树.md)|[python](code/python/剑指offer07.py) |[java](code/java/剑指offer07.java)|
@@ -72,7 +72,8 @@
 |834| 树中距离之和|[解析](docs/其他/834.树中距离之和.md)|[python](code/python/834.py) |[java](code/java/834.java)|
 |907| 子数组的最小值之和|[解析](docs/单调栈/907.子数组的最小值之和.md)|[python](code/python/907.py) |[java](code/java/907.java)|
 |1043| 分隔数组以得到最大和|[解析](docs/其他/1043.分隔数组以得到最大和.md)| ||
-|1143| 分隔数组以得到最大和|[解析](docs/编辑距离/1143.最长公共子序列.md)|[python](code/python/1143.py) |[java](code/java/1143.java)|
+|1115| 交替打印FooBar|[解析](docs/多线程/1115.交替打印FooBar.md)|[python](code/python/1115.py) |[java](code/java/1115.java)|
+|1143| 最长公共子序列|[解析](docs/编辑距离/1143.最长公共子序列.md)|[python](code/python/1143.py) |[java](code/java/1143.java)|
 |1420| 生成数组|[解析](docs/其他/1420.生成数组TODO.md)| ||
 |1638| 统计只差一个字符的子串数目|[解析](docs/其他/1638.统计只差一个字符的子串数目.md)| ||
 |1643| 第k条最小指令|[解析](docs/组合计数问题/1643.第k条最小指令.md)| ||

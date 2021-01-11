@@ -15,7 +15,7 @@
 > output: true 
  ----------
  - 代码
- >
+ > dfs+回溯
 >
     class Solution:
         def findNumberIn2DArray(self, matrix: List[List[int]], target: int) -> bool:
@@ -24,10 +24,12 @@
                 if matrix[row][col]==target:
                     return True
                 left = False
+                # 向右搜索
                 if row<len(matrix)-1 and used[row+1][col]==False and matrix[row+1][col]<=target:
                     used[row+1][col] = True
                     left = backtrack(matrix,target,used,row+1,col)
                 right = False
+                # 向下搜索
                 if col<len(matrix[0])-1 and used[row][col+1]==False and matrix[row][col+1]<=target:
                     used[row][col+1] = True
                     right = backtrack(matrix,target,used,row,col+1)
@@ -36,7 +38,37 @@
             if len(matrix)==0 or len(matrix[0])==0:
                 return False
             return backtrack(matrix,target,used,0,0)
+>
+> 线性查找
+>
+    class Solution:
+        def findNumberIn2DArray(self, matrix: List[List[int]], target: int) -> bool:
+            if not matrix: return False
+            m = len(matrix)
+            n = len(matrix[0])
+            i = 0
+            j = n-1
+            while i>=0 and i<m and j>=0 and j<n:
+                if matrix[i][j]>target:
+                    j-=1
+                elif matrix[i][j]<target:
+                    i+=1
+                else:
+                    return True
+    
+            return False
  ----------
  - 解析
  >
+> 由于矩阵的性质，每个元素一定大于其 上，左 的元素；
 >
+> 因此如果从【0，0】开始，沿着 下，右两个方向进行dfs搜索就可以了；
+>
+ ----------
+> 由于数组的特殊性，某个位置的下面以及右面元素都大于这个数；
+>
+> 因此，当查找到这个数>target，则target一定出现在左边范围，因为该数的右下范围都比该数大；
+>
+> 而如何排除该数的右上范围， 就要求从数字的右上角开始搜索，一开始的数字没有右上范围，因此在搜索过程中，任意数字的右上范围已经被排除；
+>
+> 同理，从数组的左下角开始搜索，同样可行；
