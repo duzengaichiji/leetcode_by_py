@@ -31,6 +31,10 @@
 |剑指offer28| 对称的二叉树|[解析](docs/剑指offer全家桶/剑指offer28.对称的二叉树.md)|[python](code/python/剑指offer28.py) |[java](code/java/剑指offer28.java)|
 |剑指offer29| 顺时针打印矩阵|[解析](docs/剑指offer全家桶/剑指offer29.顺时针打印矩阵.md)|[python](code/python/剑指offer29.py) |[java](code/java/剑指offer29.java)|
 |剑指offer30| 包含min函数的栈|[解析](docs/剑指offer全家桶/剑指offer30.包含min函数的栈.md)|[python](code/python/剑指offer30.py) |[java](code/java/剑指offer30.java)|
+|剑指offer31| 栈的压入，弹出序列|[解析](docs/剑指offer全家桶/剑指offer31.栈的压入，弹出序列.md)|[python](code/python/剑指offer31.py) |[java](code/java/剑指offer31.java)|
+|剑指offer32-1| 从上到下打印二叉树|[解析](docs/剑指offer全家桶/剑指offer32-1.从上到下打印二叉树.md)|[python](code/python/剑指offer32-1.py) |[java](code/java/剑指offer32-1.java)|
+|剑指offer32-2| 从上到下打印二叉树Ⅱ|[解析](docs/剑指offer全家桶/剑指offer32-2.md)|[python](code/python/剑指offer32-2.py) |[java](code/java/剑指offer32-2.java)|
+|剑指offer32-3| 从上到下打印二叉树Ⅲ|[解析](docs/剑指offer全家桶/剑指offer32-3.md)|[python](code/python/剑指offer32-3.py) |[java](code/java/剑指offer32-3.java)|
 |剑指offer51| 逆序对|[解析](docs/剑指offer全家桶/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
 |剑指offer60| n个骰子的点数|[解析](docs/剑指offer全家桶/剑指offer60.n个骰子的点数.md)|[python](code/python/剑指offer60.py) |[java](code/java/剑指offer60.java)|
 |剑指offer68-1| 二叉树的最近公共祖先|[解析](docs/剑指offer全家桶/剑指offer68-1.二叉树的最近公共祖先.md)|[python](code/python/剑指offer68-1.py) |[java](code/java/剑指offer68-1.java)|
