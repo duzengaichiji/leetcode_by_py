@@ -37,6 +37,8 @@
 |剑指offer32-3| 从上到下打印二叉树Ⅲ|[解析](docs/剑指offer全家桶/剑指offer32-3.md)|[python](code/python/剑指offer32-3.py) |[java](code/java/剑指offer32-3.java)|
 |剑指offer33| 二叉搜索树的后序遍历序列|[解析](docs/剑指offer全家桶/剑指offer33.二叉搜索树的后序遍历序列.md)|[python](code/python/剑指offer33.py) |[java](code/java/剑指offer33.java)|
 |剑指offer34| 二叉树中和为某一值的路径|[解析](docs/剑指offer全家桶/剑指offer34.二叉树中和为某一值的路径.md)|[python](code/python/剑指offer34.py) |[java](code/java/剑指offer34.java)|
+|剑指offer35| 复杂链表的复制|[解析](docs/剑指offer全家桶/剑指offer35.复杂链表的复制.md)|[python](code/python/剑指offer35.py) |[java](code/java/剑指offer35.java)|
+|剑指offer36| 二叉树与双向链表|[解析](docs/剑指offer全家桶/剑指offer36.二叉树与双向链表.md)|[python](code/python/剑指offer36.py) |[java](code/java/剑指offer36.java)|
 |剑指offer51| 逆序对|[解析](docs/剑指offer全家桶/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
 |剑指offer60| n个骰子的点数|[解析](docs/剑指offer全家桶/剑指offer60.n个骰子的点数.md)|[python](code/python/剑指offer60.py) |[java](code/java/剑指offer60.java)|
 |剑指offer68-1| 二叉树的最近公共祖先|[解析](docs/剑指offer全家桶/剑指offer68-1.二叉树的最近公共祖先.md)|[python](code/python/剑指offer68-1.py) |[java](code/java/剑指offer68-1.java)|
