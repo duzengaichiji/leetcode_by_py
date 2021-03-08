@@ -21,6 +21,7 @@
 > output: true
 ----------
 - 代码
+> 动态规划
 >
     class Solution:
         def isMatch(self, s: str, p: str) -> bool:
@@ -54,7 +55,25 @@
                         dp[r][c] = False
     
             return dp[nrow-1][ncol-1]
-
+>
+> 递归
+>
+    class Solution:
+        def isMatch(self, s: str, p: str) -> bool:
+            def match(si,pi):
+                # 是否到字符串的末尾
+                if pi==len(p):
+                    return si==len(s)
+                # 遇到带*的子串
+                if pi<len(p)-1 and p[pi+1]=='*':
+                    # *代表0个的情况；*代表n个的情况(n>=1)
+                    return match(si,pi+2) or \
+                        (si<len(s) and (s[si]==p[pi] or p[pi]=='.') and match(si+1,pi))
+                else:
+                    if si>=len(s):
+                        return False
+                    return (s[si]==p[pi] or p[pi]=='.') and match(si+1,pi+1)
+            return match(0,0)
 ----------
 - 解析
 > 这个问题，应该和编辑距离联系起来；

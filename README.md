@@ -17,7 +17,7 @@
 |剑指offer14-1| 剪绳子|[解析](docs/剑指offer全家桶/剑指offer14-1.剪绳子.md)|[python](code/python/剑指offer14-1.py) |[java](code/java/剑指offer14-1.java)|
 |剑指offer14-2| 剪绳子Ⅱ|[解析](docs/剑指offer全家桶/剑指offer14-2.剪绳子Ⅱ.md)|[python](code/python/剑指offer14-2.py) |[java](code/java/剑指offer14-2.java)|
 |剑指offer15| 二进制中1的个数|[解析](docs/剑指offer全家桶/剑指offer15.二进制中1的个数.md)|[python](code/python/剑指offer15.py) |[java](code/java/剑指offer15.java)|
-|剑指offer16| 数值的整数次方|[解析](docs/剑指offer全家桶/剑指offer16.数值的整数次方.md)| ||
+|剑指offer16| 数值的整数次方|[解析](docs/剑指offer全家桶/剑指offer16.数值的整数次方.md)| [python](code/python/剑指offer16.py)|[java](code/java/剑指offer16.java)|
 |剑指offer17| 打印从1到最大的n位数|[解析](docs/剑指offer全家桶/剑指offer17.打印从1到最大的n位数.md)|[python](code/python/剑指offer17.py) |[java](code/java/剑指offer17.java)|
 |剑指offer18| 删除链表的节点|[解析](docs/剑指offer全家桶/剑指offer18.删除链表的节点.md)|[python](code/python/剑指offer18.py) |[java](code/java/剑指offer18.java)|
 |剑指offer19| 正则表达式匹配|[解析](docs/剑指offer全家桶/剑指offer19.正则表达式匹配.md)|[python](code/python/10.py) |[java](code/java/10.java)|
