@@ -45,6 +45,11 @@
 |剑指offer40| 最小的k个数|[解析](docs/剑指offer全家桶/剑指offer40.最小的k个数.md)|[python](code/python/剑指offer40.py) |[java](code/java/剑指offer40.java)|
 |剑指offer41| 数据流的中位数|[解析](docs/剑指offer全家桶/剑指offer41.数据流的中位数.md)|[python](code/python/剑指offer41.py) |[java](code/java/剑指offer41.java)|
 |剑指offer42| 连续子数组的最大和|[解析](docs/剑指offer全家桶/剑指offer42.连续子数组的最大和.md)|[python](code/python/剑指offer42.py) |[java](code/java/剑指offer42.java)|
+|剑指offer44| 数字序列中某一位的数字|[解析](docs/剑指offer全家桶/剑指offer44.数字序列中某一位的数字.md)|[python](code/python/剑指offer44.py) |[java](code/java/剑指offer44.java)|
+|剑指offer45| 把数组排成最小的数|[解析](docs/剑指offer全家桶/剑指offer45.把数组排成最小的数.md)|[python](code/python/剑指offer45.py) |[java](code/java/剑指offer45.java)|
+|剑指offer46| 把数字翻译成字符串|[解析](docs/剑指offer全家桶/剑指offer46.把数字翻译成字符串.md)|[python](code/python/剑指offer46.py) |[java](code/java/剑指offer46.java)|
+|剑指offer47| 礼物的最大价值|[解析](docs/剑指offer全家桶/剑指offer47.礼物的最大价值.md)|[python](code/python/剑指offer47.py) |[java](code/java/剑指offer47.java)|
+|剑指offer48| 最长不含重复字符的子字符串|[解析](docs/剑指offer全家桶/剑指offer48.最长不含重复字符的子字符串.md)|[python](code/python/剑指offer48.py) |[java](code/java/剑指offer48.java)|
 |剑指offer51| 逆序对|[解析](docs/剑指offer全家桶/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
 |剑指offer60| n个骰子的点数|[解析](docs/剑指offer全家桶/剑指offer60.n个骰子的点数.md)|[python](code/python/剑指offer60.py) |[java](code/java/剑指offer60.java)|
 |剑指offer68-1| 二叉树的最近公共祖先|[解析](docs/剑指offer全家桶/剑指offer68-1.二叉树的最近公共祖先.md)|[python](code/python/剑指offer68-1.py) |[java](code/java/剑指offer68-1.java)|
