@@ -51,11 +51,14 @@
 |剑指offer47| 礼物的最大价值|[解析](docs/剑指offer全家桶/剑指offer47.礼物的最大价值.md)|[python](code/python/剑指offer47.py) |[java](code/java/剑指offer47.java)|
 |剑指offer48| 最长不含重复字符的子字符串|[解析](docs/剑指offer全家桶/剑指offer48.最长不含重复字符的子字符串.md)|[python](code/python/剑指offer48.py) |[java](code/java/剑指offer48.java)|
 |剑指offer51| 逆序对|[解析](docs/剑指offer全家桶/剑指offer51.逆序对.md)|[python](code/python/剑指offer51.py) |[java](code/java/剑指offer51.java)|
-|剑指offer52| 逆序对|[解析](docs/剑指offer全家桶/剑指offer52.两个链表的第一个公共节点.md)|[python](code/python/剑指offer52.py) |[java](code/java/剑指offer52.java)|
-|剑指offer54| 逆序对|[解析](docs/剑指offer全家桶/剑指offer54.二叉搜索树的第k大节点.md)|[python](code/python/剑指offer54.py) |[java](code/java/剑指offer54.java)|
-|剑指offer55-1| 逆序对|[解析](docs/剑指offer全家桶/剑指offer55-1.二叉树的深度.md)|[python](code/python/剑指offer55-1.py) |[java](code/java/剑指offer55-1.java)|
-|剑指offer55-2| 逆序对|[解析](docs/剑指offer全家桶/剑指offer55-2.平衡二叉树.md)|[python](code/python/剑指offer55-2.py) |[java](code/java/剑指offer55-2.java)|
+|剑指offer52| 两个链表的第一个公共节点|[解析](docs/剑指offer全家桶/剑指offer52.两个链表的第一个公共节点.md)|[python](code/python/剑指offer52.py) |[java](code/java/剑指offer52.java)|
+|剑指offer54| 二叉搜索树的第k大节点|[解析](docs/剑指offer全家桶/剑指offer54.二叉搜索树的第k大节点.md)|[python](code/python/剑指offer54.py) |[java](code/java/剑指offer54.java)|
+|剑指offer55-1| 二叉树的深度|[解析](docs/剑指offer全家桶/剑指offer55-1.二叉树的深度.md)|[python](code/python/剑指offer55-1.py) |[java](code/java/剑指offer55-1.java)|
+|剑指offer55-2| 平衡二叉树|[解析](docs/剑指offer全家桶/剑指offer55-2.平衡二叉树.md)|[python](code/python/剑指offer55-2.py) |[java](code/java/剑指offer55-2.java)|
+|剑指offer56-1| 数组中数字出现的次数|[解析](docs/剑指offer全家桶/剑指offer56-1.数组中数字出现的次数.md)|[python](code/python/剑指offer56-1.py) |[java](code/java/剑指offer56-1.java)|
 |剑指offer60| n个骰子的点数|[解析](docs/剑指offer全家桶/剑指offer60.n个骰子的点数.md)|[python](code/python/剑指offer60.py) |[java](code/java/剑指offer60.java)|
+|剑指offer64| 求1+2+...n|[解析](docs/剑指offer全家桶/剑指offer64.求1+2+...n.md)|[python](code/python/剑指offer64.py) |[java](code/java/剑指offer64.java)|
+|剑指offer66| 构建乘积数组|[解析](docs/剑指offer全家桶/剑指offer66.构建乘积数组.md)|[python](code/python/剑指offer66.py) |[java](code/java/剑指offer66.java)|
 |剑指offer68-1| 二叉树的最近公共祖先|[解析](docs/剑指offer全家桶/剑指offer68-1.二叉树的最近公共祖先.md)|[python](code/python/剑指offer68-1.py) |[java](code/java/剑指offer68-1.java)|
 
 # fucking Top100
