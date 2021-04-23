@@ -56,6 +56,11 @@
 |剑指offer55-1| 二叉树的深度|[解析](docs/剑指offer全家桶/剑指offer55-1.二叉树的深度.md)|[python](code/python/剑指offer55-1.py) |[java](code/java/剑指offer55-1.java)|
 |剑指offer55-2| 平衡二叉树|[解析](docs/剑指offer全家桶/剑指offer55-2.平衡二叉树.md)|[python](code/python/剑指offer55-2.py) |[java](code/java/剑指offer55-2.java)|
 |剑指offer56-1| 数组中数字出现的次数|[解析](docs/剑指offer全家桶/剑指offer56-1.数组中数字出现的次数.md)|[python](code/python/剑指offer56-1.py) |[java](code/java/剑指offer56-1.java)|
+|剑指offer56-2| 数组中数字出现的次数|[解析](docs/剑指offer全家桶/剑指offer56-2.数组中出现的数字Ⅱ.md)|[python](code/python/剑指offer56-2.py) |[java](code/java/剑指offer56-2.java)|
+|剑指offer57-1| 数组中数字出现的次数|[解析](docs/剑指offer全家桶/剑指offer57.和为s的两个数字.md)|[python](code/python/剑指offer57.py) |[java](code/java/剑指offer57.java)|
+|剑指offer57-2| 数组中数字出现的次数|[解析](docs/剑指offer全家桶/剑指offer57-Ⅱ.和为s的连续正数序列.md)|[python](code/python/剑指offer57-2.py) |[java](code/java/剑指offer57-2.java)|
+|剑指offer58-1| 数组中数字出现的次数|[解析](docs/剑指offer全家桶/剑指offer58-1.翻转单词顺序.md)|[python](code/python/剑指offer58-1.py) |[java](code/java/剑指offer58-1.java)|
+|剑指offer58-2| 数组中数字出现的次数|[解析](docs/剑指offer全家桶/剑指offer58-2.左旋转字符串.md)|[python](code/python/剑指offer58-2.py) |[java](code/java/剑指offer58-2.java)|
 |剑指offer60| n个骰子的点数|[解析](docs/剑指offer全家桶/剑指offer60.n个骰子的点数.md)|[python](code/python/剑指offer60.py) |[java](code/java/剑指offer60.java)|
 |剑指offer64| 求1+2+...n|[解析](docs/剑指offer全家桶/剑指offer64.求1+2+...n.md)|[python](code/python/剑指offer64.py) |[java](code/java/剑指offer64.java)|
 |剑指offer66| 构建乘积数组|[解析](docs/剑指offer全家桶/剑指offer66.构建乘积数组.md)|[python](code/python/剑指offer66.py) |[java](code/java/剑指offer66.java)|
