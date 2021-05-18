@@ -207,6 +207,7 @@
 |1115| 交替打印FooBar|[解析](docs/多线程/1115.交替打印FooBar.md)|[python](code/python/1115.py) |[java](code/java/1115.java)|
 |1143| 最长公共子序列|[解析](docs/编辑距离/1143.最长公共子序列.md)|[python](code/python/1143.py) |[java](code/java/1143.java)|
 |1420| 生成数组|[解析](docs/其他/1420.生成数组TODO.md)| ||
+|1442| 生成数组|[解析](docs/位运算/1442.形成两个异或相等数组的三元组个数.md)|[python](code/python/1442.py)|[java](code/java/1442.java)|
 |1638| 统计只差一个字符的子串数目|[解析](docs/其他/1638.统计只差一个字符的子串数目.md)| ||
 |1643| 第k条最小指令|[解析](docs/组合计数问题/1643.第k条最小指令.md)| ||
 
