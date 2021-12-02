@@ -221,6 +221,7 @@
 |493| 翻转对|[解析](docs/归并排序/493.翻转对.md)|[python](code/python/493.py) ||
 |472| 连接词|[解析](docs/前缀树/472.连接词.md)|[python](code/python/472.py) ||
 |474| 一和零|[解析](docs/背包问题/474.一和零.md)|[python](code/python/474.py) ||
+|475| 供暖器|[解析](docs/二分查找/475.供暖器.md)|[python](code/python/475.py) ||
 |502| IPO|[解析](docs/贪心算法/502.IPO.md)|[python](code/python/502.py) ||
 |518| 零钱兑换Ⅱ|[解析](docs/背包问题/518.零钱兑换Ⅱ.md)|[python](code/python/518.py) ||
 |526| 优美的排列|[解析](docs/状态压缩DP/526.优美的排列.md)|[python](code/python/526.py) ||
