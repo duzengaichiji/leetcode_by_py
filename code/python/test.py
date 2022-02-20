@@ -1,1 +1,8 @@
-print(25+15+35+10+23+11+17+8+2+3+8+3+28+23+22+92+35+54+30)
+def gcd(a, b):
+    if a == b:
+        return a
+    if a < b:
+        if b % a == 0:
+            return a
+        return gcd(a, b % a)
+    return gcd(b, a)
