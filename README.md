@@ -212,7 +212,7 @@
 |395| 至少有k个重复字符的最长子串|[解析](docs/递归/395.至少有k个重复字符的最长子串.md)|[python](code/python/395.py) ||
 |402| 移掉k位数字|[解析](docs/单调栈/402.移掉K位数字.md)|[python](code/python/402.py) ||
 |407| 接雨水2|[解析](docs/最短路径算法/407.接雨水2.md)|[python](code/python/407.py) ||
-|423| 从英文中重建数字|[解析](docs/脑筋急转弯（投机取巧）/423.从英文中重建数字.md)|[python](code/python/423.py) ||
+|423| 从英文中重建数字|[解析](docs/脑筋急转弯/423.从英文中重建数字.md)|[python](code/python/423.py) ||
 |466| 统计重复个数|[解析](docs/其他/466.统计重复个数.md)| ||
 |470| 用rand7实现rand10|[解析](docs/其他/470.用rand7实现rand10.md)|[python](code/python/470.py) |[java](code/java/470.java)|
 |473| 火柴拼正方形|[解析](docs/递归/473.火柴拼正方形.md)|[python](code/python/473.py) ||
