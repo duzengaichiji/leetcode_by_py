@@ -22,7 +22,7 @@
 > 但是在本问题中，由于硬币是无限使用的，所以要穷举所有的可能，就会产生很深的搜索树；
 >
 > 
-![322_dfs_tree](../../imgs/322_dfs_tree.png "binaryTree")
+![322_dfs_tree](../../../imgs/322_dfs_tree.png "binaryTree")
 > 
 > 从图中可以看出，算法将计算cur=11的叶节点的个数;
 >
