@@ -1,8 +1,10 @@
-def gcd(a, b):
-    if a == b:
-        return a
-    if a < b:
-        if b % a == 0:
-            return a
-        return gcd(a, b % a)
-    return gcd(b, a)
+class C:
+    def __init__(self):
+        self.list = []
+        self.map = {}
+
+
+if __name__ == "__main__":
+    c = C()
+    mapping = {}
+    mapping[c] = 1

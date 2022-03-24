@@ -200,7 +200,7 @@
 |282| 给表达式添加运算符|[解析](docs/深度优先搜索(回溯算法)/282.给表达式添加运算符.md)| ||
 |292| Nim游戏|[解析](docs/博弈论/292.Nim游戏.md)|[python](code/python/292.py) ||
 |295| 数据流的中位数|[解析](docs/堆/295.数据流的中位数.md)| ||
-|307| 区域和检索-数组可修改|[解析](docs/线段树/307.区域和检索-数组可修改.md)|[python](code/python/307.py) |[java](code/java/307.java)|
+|307| 区域和检索-数组可修改|[解析](docs/区间操作/线段树/307.区域和检索-数组可修改.md)|[python](code/python/307.py) |[java](code/java/307.java)|
 |309| 买卖股票时机含冷冻期|[解析](docs/DP/股票问题/309.买卖股票时机含冷冻期.md)|[python](code/python/309.py) ||
 |327| 区间和的个数|[解析](docs/归并排序/327.区间和的个数.md)|[python](code/python/327.py) ||
 |368| 最大整除子集|[解析](docs/并查集/368.最大整除子集.md)| [python](code/python/368.py) ||
