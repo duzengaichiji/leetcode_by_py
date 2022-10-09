@@ -130,7 +130,7 @@
 | 155| 最小栈 | :----: | :----: | :----: |
 | 160| 相交链表 | :----: | :----: | :----: |
 |169| 多数元素|[解析](docs/摩尔投票法/169.多数元素.md)|[python](code/python/169.py) ||
-|198| 打家劫舍|[解析](docs/DP/打家劫舍/198.打家劫舍.md)|[python](code/python/198.py) |[java](code/java/198.java)|
+|198| 打家劫舍|[解析](docs/DP/序列dp/打家劫舍/198.打家劫舍.md)|[python](code/python/198.py) |[java](code/java/198.java)|
 |200| 岛屿数量|[解析](docs/并查集/200.岛屿数量.md)|[python](code/python/200.py) ||
 | 206| 反转链表 | :----: | :----: | :----: |
 | 207| 课程表 | :----: | :----: | :----: |
@@ -152,7 +152,7 @@
 | 309| 最佳买卖股票时机含冷冻期 | [解析](docs/DP/股票问题/309.买卖股票时机含冷冻期.md) | [python](code/python/309.py) | [java](code/java/309.java) |
 | 312| 戳气球 | :----: | :----: | :----: |
 | 322| 零钱兑换 | [解析](docs/DP/背包问题/无限背包/322.零钱兑换.md) |  | |
-|337| 打家劫舍Ⅲ|[解析](docs/DP/打家劫舍/337.打家劫舍Ⅲ.md)|[python](code/python/337.py) |[java](code/java/337.java)|
+|337| 打家劫舍Ⅲ|[解析](docs/DP/序列dp/打家劫舍/337.打家劫舍Ⅲ.md)|[python](code/python/337.py) |[java](code/java/337.java)|
 | 338| 比特位计数 | :----: | :----: | :----: |
 | 347| 前K个高频元素 | :----: | :----: | :----: |
 |357| 计算各个位数不同的数字个数|[解析](docs/其他/357.计算各个位数不同的数字个数.md)|[python](code/python/357.py)||
@@ -195,7 +195,7 @@
 |188| 买卖股票的最佳时机Ⅳ|[解析](docs/DP/股票问题/188.买卖股票的最佳时机Ⅳ.md)|[python](code/python/188.py) ||
 |204| 计数质数|[解析](docs/其他/204.计数质数.md)| ||
 |211| 添加与搜索单词|[解析](docs/前缀树/211.添加与搜索单词.md)|[python](code/python/211.py) ||
-|213| 打家劫舍Ⅱ|[解析](docs/DP/打家劫舍/213.打家劫舍Ⅱ.md)|[python](code/python/213.py) |[java](code/java/213.java)|
+|213| 打家劫舍Ⅱ|[解析](docs/DP/序列dp/打家劫舍/213.打家劫舍Ⅱ.md)|[python](code/python/213.py) |[java](code/java/213.java)|
 |229| 求众数Ⅱ|[解析](docs/摩尔投票法/229.求众数Ⅱ.md)|[python](code/python/229.py) ||
 |282| 给表达式添加运算符|[解析](docs/深度优先搜索(回溯算法)/282.给表达式添加运算符.md)| ||
 |292| Nim游戏|[解析](docs/博弈论/292.Nim游戏.md)|[python](code/python/292.py) ||
@@ -234,7 +234,7 @@
 |712| 两个字符串的最小ASCII删除和|[解析](docs/DP/编辑距离/712.两个字符串的最小ASCII删除和.md)|[python](code/python/712.py) |[java](code/java/712.java)|
 |714| 买卖股票的最佳时机含手续费|[解析](docs/DP/股票问题/714.买卖股票的最佳时机含手续费.md)|[python](code/python/714.py) ||
 |720| 词典中最长的单词|[解析](docs/前缀树/720.词典中最长的单词.md)|[python](code/python/720.py) ||
-|740| 删除与获得点数|[解析](docs/DP/打家劫舍/740.删除与获得点数.md)|[python](code/python/740.py) ||
+|740| 删除与获得点数|[解析](docs/DP/序列dp/740.删除与获得点数.md)|[python](code/python/740.py) ||
 |765| 情侣牵手|[解析](docs/并查集/765.情侣牵手.md)|[python](code/python/765.py) |[java](code/java/765.java)|
 |778| 水位上升的泳池中游泳|[解析](docs/贪心算法/778.水位上升的泳池中游泳.md)|[python](code/python/778.py) |[java](code/java/778.java)|
 |787| 站中转内最便宜的航班|[解析](docs/其他/787.K站中转内最便宜的航班.md)|[python](code/python/787.py) |[java](code/java/787.java)|
