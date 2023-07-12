@@ -55,6 +55,7 @@
 |518| 零钱兑换Ⅱ|[解析](docs/DP/背包问题/无限背包/518.零钱兑换Ⅱ.md)|[python](code/python/518.py) || :----: |
 |526| 优美的排列|[解析](docs/DP/状态压缩DP/526.优美的排列.md)|[python](code/python/526.py) || :----: |
 |547| 朋友圈|[解析](docs/并查集/547.朋友圈.md)|[python](code/python/547.py) |[java](code/java/547.java)| :----: |
+|572| 另一棵树的子树|[解析](docs/并查集/572.另一棵树的子树.md)|[python](code/python/572.py) || :----: |
 |576| 出界的路径数|[解析](docs/路径问题/576.出界的路径数.md)| [python](code/python/576.py) || :----: |
 |592| 分数的加减运算|[解析](docs/其他/592.分数的加减运算.md)| || :----: |
 |673| 最长上升子序列的个数|[解析](docs/LIS(最长上升子序列问题)/673.最长上升子序列的个数.md)|[python](code/python/673.py)|| :----: |
@@ -76,6 +77,7 @@
 |1115| 交替打印FooBar|[解析](docs/多线程/1115.交替打印FooBar.md)|[python](code/python/1115.py) |[java](code/java/1115.java)| :----: |
 |1143| 最长公共子序列|[解析](docs/DP/编辑距离/1143.最长公共子序列.md)|[python](code/python/1143.py) |[java](code/java/1143.java)| :----: |
 |1218| 最长定差子序列|[解析](docs/LIS(最长上升子序列问题)/1218.最长定差子序列.md)| [python](code/python/1218.py)|| :----: |
+|1367| 生成数组|[解析](docs/其他/1367.二叉树中的链表.md)| [python](code/python/1367.py)|| :----: |
 |1420| 生成数组|[解析](docs/其他/1420.生成数组TODO.md)| || :----: |
 |1442| 生成数组|[解析](docs/位运算/1442.形成两个异或相等数组的三元组个数.md)|[python](code/python/1442.py)|[java](code/java/1442.java)| :----: |
 |1638| 统计只差一个字符的子串数目|[解析](docs/其他/1638.统计只差一个字符的子串数目.md)| || :----: |
